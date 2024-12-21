@@ -1,0 +1,14 @@
+# Ignore .env files
+.env
+
+# Ignore all .env files in subdirectories
+**/*.env
+
+# Ignore environment-related folders
+env/
+
+# Ignore custom-gpt folder
+custom-gpt/
+
+# Ignore datasets
+data/
